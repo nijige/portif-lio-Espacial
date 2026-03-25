@@ -178,8 +178,8 @@ nav {
   font-family: var(--font-display);
   font-weight: 800;
   font-size: clamp(3rem, 7vw, 6.5rem);
-  line-height: 0.95;
-  letter-spacing: -3px;
+  line-height: 1.1;
+  letter-spacing: -1px;
   margin-bottom: 1.5rem;
   animation: fadeUp 0.8s 0.1s ease both;
 }
