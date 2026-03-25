@@ -419,8 +419,8 @@ section {
   font-family: var(--font-display);
   font-weight: 800;
   font-size: clamp(2.2rem, 5vw, 4rem);
-  line-height: 1;
-  letter-spacing: -2px;
+  line-height: 1.15;
+  letter-spacing: -0.5px;
 }
 
 /* ---- SKILLS ---- */
@@ -690,8 +690,8 @@ section {
   font-family: var(--font-display);
   font-weight: 800;
   font-size: clamp(2.5rem, 5vw, 4.5rem);
-  line-height: 1;
-  letter-spacing: -3px;
+  line-height: 1.15;
+  letter-spacing: -1px;
   margin: 1rem 0 1.5rem;
 }
 
