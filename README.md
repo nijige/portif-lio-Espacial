@@ -1,4 +1,4 @@
-# 🚀 Geane Ferreira — Portfolio
+# 🚀 Geane Ferreira — Portifolio
 
 Portfólio pessoal com tema **Space Girl** — escuro, futurista e cheio de personalidade.
 
